@@ -10,7 +10,7 @@ can be used to play the game.
 
 Play-RPG imports the RPG-Class-Creation methods to allow for the 
 use of the Enemy and Hero classes. It creates a few new methods 
-to be used while running the game. Then starts it. You can play 
+to be used while running the game. Then starts playing. You can play 
 the game through interacting with the terminal.
 
 # Modification
