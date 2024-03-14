@@ -5,6 +5,11 @@
 
 # Bare-bone methods was pre-provided by course instructor
 
+# Description of Program:
+# Creates a few new methods to be used while playing the game
+# Uses the imported classes to create enemies and a hero to play as
+# The program will close when the hero's health drops to 0.
+
 from RPG-Class-Creation import *
 import random
 
