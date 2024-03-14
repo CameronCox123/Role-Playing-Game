@@ -1,9 +1,8 @@
-# File: HW9
+# File: RPG-Class-Creation
 # Author: Cameron Cox
 # UT EID: cpc2526
 # Course: cs303E
 
-# Date: 11/18/2023
 
 # Description of program: 
 # Creates a Character class that allows the user to build an object with a name, health value, and creates a 
@@ -12,9 +11,7 @@
 # have a private inventory that you can add to, remove from, or access using functions. Heros can recover 
 # health using the restore_health function
 
-# Scource Citing:
-# Looked at lecture notes for lecture 19. Homeworks 2A, 3A, and 4A for help with style. Looked online at python 
-# documentation library for use of methods. Style guideline document. 
+
 
 # Used to create parent 'Character' objects that our program interacts with using functions established in classes.
 class Character:
@@ -113,6 +110,11 @@ class Enemy(Character):
         Character.__init__(self, name, health)
         self.damage = damage
 
+
+
+"""
+Driver Code
+"""
 def main():
 
     # Create our Hero object and two Enemy objects.
