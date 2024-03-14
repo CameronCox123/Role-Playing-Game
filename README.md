@@ -1,2 +1,3 @@
 # Role-Playing-Game
-Plays a quick text based RPG with the user
+
+This repo includes two files, RPG-Class-Creation and 
