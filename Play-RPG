@@ -43,6 +43,11 @@ def fight(hero, enemy):
         health = hero.take_damage(enemy.damage)
     print("Your current health is " + str(hero.health) + ".\n")
 
+
+
+"""
+Driver Code
+"""
 def main():
 
     #create 1 hero and 4 enemies
