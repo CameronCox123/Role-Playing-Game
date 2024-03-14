@@ -1,3 +1,10 @@
+# File: RPG-Class-Creation
+# Author: Cameron Cox
+# UT EID: cpc2526
+# Course: cs303E
+
+# Bare-bone methods was pre-provided by course instructor
+
 from RPG-Class-Creation import *
 import random
 
